@@ -1,6 +1,6 @@
-<h2> Hi, I'm Rohan R K! <img src=".gif" width="50"></h2>
-<img align='right' src=".gif" width="230">
-<p><em>Student at <a href="http://www.git.edu">KLS GIT</a><img src=".gif" width="30"> 
+<h2> Hi, I'm Rohan R K! <!--<img src=".gif" width="50"></h2>
+<img align='right' src=".gif" width="230">   -->
+<p><em>Student at <a href="http://www.git.edu">KLS GIT</a>   <!--<img src=".gif" width="30"> -->
 </em></p>
 
 

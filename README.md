@@ -1,8 +1,7 @@
 ### Hi there, I'm RohN - aka [Rohan R K][website] 👋
 
-## I'm a Student, Developer, and Blogger!
+## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other bloggers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to workout and make beats
 

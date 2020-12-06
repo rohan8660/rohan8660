@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://rohan-r-k.business.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://rohan-r-k.business.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 [<img align="left" alt="RohNRK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RohNRK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RohNRK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,7 +34,6 @@
 
 <img align="left" alt="RohN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohan8660&show_icons=true&hide_border=true" />
 
-[website]: https://rohan-r-k.business.site/
 [twitter]: https://twitter.com/RohanRK67642864
 [youtube]: https://www.youtube.com/channel/UCuFs-O7TcQ3xs1DPLcwRa6g?view_as=subscriber
 [instagram]: https://instagram.com/rohnrk4017

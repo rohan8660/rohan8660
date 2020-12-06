@@ -1,4 +1,4 @@
-### Hi there, I'm RohN - aka [Rohan R K][website] 👋
+### Hi there, I'm Rohan R K - aka RohN👋
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects

@@ -1,7 +1,7 @@
 ## Hi there, I'm Rohan R K - aka RohN👋
 ### I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to workout and make beats
 ### Connect with me:
 [<img align="left" alt="RohNRK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]

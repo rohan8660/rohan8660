@@ -3,6 +3,8 @@
 - 🌱 I’m learning.
 - 🥅 Trying to contribute more to Open Source projects.
 - ⚡ I love to workout and make beats.
+- Final year Bachelor of Engineering student.
+- Interested in Application Development Internships.
 ### Connect with me:
 [<img align="left" alt="RohNRK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RohNRK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

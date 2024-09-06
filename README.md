@@ -1,10 +1,9 @@
-## Hi there, I'm Rohan R K - aka RohN👋
-### I'm a Student and Developer!
-- 🌱 I’m learning.
-- 🥅 Trying to contribute more to Open Source projects.
-- ⚡ I love to workout and make beats.
-- Graduated ISE, Bachelor of Engineering.
-- Interested in Application Development Internships.
+## Hi, I'm Rohan R K 👋
+### Backend Developer & Lifelong Learner
+- 🌱 Constantly learning and exploring new technologies.
+- 🛠️ Passionate about contributing to Open Source.
+- 🎓 Graduated with a Bachelor’s in ISE.
+- 🚀 Working at Clarivate, building solutions to accelerate pharmaceutical research.
 ### Connect with me:
 [<img align="left" alt="RohNRK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RohNRK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -25,6 +24,10 @@
 <br />
 <br />
 <img align="left" alt="RohN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohan8660&show_icons=true&hide_border=true" />
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/www_kokatanur_r1)
+
+
+
 
 [twitter]: https://twitter.com/RohanRK67642864
 [youtube]: https://www.youtube.com/channel/UCuFs-O7TcQ3xs1DPLcwRa6g?view_as=subscriber

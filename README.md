@@ -24,8 +24,8 @@
 <br />
 <br />
 <img align="left" alt="RohN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohan8660&show_icons=true&hide_border=true" />
-![image-title-here](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
-![![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/www_kokatanur_r1)
+
+[[HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/www_kokatanur_r1)
 
 
 

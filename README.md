@@ -1,38 +1,26 @@
-## Hi, I'm Rohan R K 👋
-### Backend Developer & Lifelong Learner
-- 🌱 Constantly learning and exploring new technologies.
-- 🛠️ Passionate about contributing to Open Source.
-- 🎓 Graduated with a Bachelor’s in ISE.
-- 🚀 Working at Clarivate, building solutions to accelerate pharmaceutical research.
-### Connect with me:
-[<img align="left" alt="RohNRK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RohNRK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RohNRK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RohNRK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
-<img align="left" alt="RohN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohan8660&show_icons=true&hide_border=true" />
+### Hi there, I'm Rohan 👋
 
-[[HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/www_kokatanur_r1)
+I am a **Backend Engineer** with ~3.5 years of experience specializing in **Python, PostgreSQL, and Cloud Architecture**. I build high-performance data solutions for the Life Sciences & Pharma industry.
 
+Currently Engineering at **[Clarivate](https://clarivate.com)**.
 
+---
 
+### 🛠️ Core Stack & Infrastructure
+* **Languages:** Python (3.x), SQL
+* **Backend:** REST APIs, Fast API / Django (Concepts), Microservices
+* **Database:** PostgreSQL, Data Modeling
+* **Cloud & DevOps:** Microsoft Azure (Certified), Docker, CI/CD pipelines
+* **Tools:** Git, Postman, Linux
 
-[twitter]: https://twitter.com/RohanRK67642864
-[youtube]: https://www.youtube.com/channel/UCuFs-O7TcQ3xs1DPLcwRa6g?view_as=subscriber
-[instagram]: https://instagram.com/rohnrk4017
-[linkedin]: https://linkedin.com/in/rohan-kokatanur-78772119a
+---
 
+### 🚀 Professional Focus
+* **System Design:** Designing scalable backend architectures for data-heavy applications.
+* **Performance:** Optimizing SQL queries and API response times.
+* **Reliability:** Writing clean, maintainable, and tested code.
 
+---
+
+### 📫 Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohan-kokatanur/)

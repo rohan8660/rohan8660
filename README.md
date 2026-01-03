@@ -8,7 +8,7 @@ Currently Engineering at **[Clarivate](https://clarivate.com)**.
 
 ### 🛠️ Core Stack & Infrastructure
 * **Languages:** Python (3.x), SQL
-* **Backend:** REST APIs, Fast API / Django (Concepts), Microservices
+* **Backend:** REST APIs, Fast API , Microservices
 * **Database:** PostgreSQL, Data Modeling
 * **Cloud & DevOps:** Microsoft Azure (Certified), Docker, CI/CD pipelines
 * **Tools:** Git, Postman, Linux
